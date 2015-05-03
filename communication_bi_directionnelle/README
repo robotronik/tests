@@ -1,0 +1,6 @@
+Le processus "a" produit des char et consomme des entier.
+Le processus "b" produit des entier et consomme des char.
+
+Le pipe transfère les info de "a" à "b".
+Le pipe nommé transfère les info de "b" à "a".
+
