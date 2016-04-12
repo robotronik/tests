@@ -1,0 +1,8 @@
+# emacs editor
+*#
+*~
+# output
+*.o
+*.elf
+*.d
+
